@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 [![Jlangisch][jlangisch_web]][jlangisch-url]
 [![Langischjs][twitter_web]][twitter-url]
 
-![avatar-moving](https://github.com/JacksonTheMaster/JacksonTheMaster/blob/main/abatar-moshed.gif)
+![avatar-moving](https://github.com/JacksonTheMaster/JacksonTheMaster/blob/main/avatar-moshed.gif)
 
 
 [jmg-url]: https://www.jmg-it.de
