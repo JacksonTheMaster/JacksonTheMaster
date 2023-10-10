@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JacksonTheMaster
-- 👀 I’m interested in modern it!
-- 🌱 I’m currently learning how to survive the energy crisis with a DC. lol.
+- 👀 I’m interested in user-friendly, praical IT!
+- 🌱 I’m currently learning Go for some api projects
 - 💞️ I’m looking to collaborate on  otherTeams!
 - 📫 How to reach me: Ping my IP long enough, Twitter, Github...however you like.
 
