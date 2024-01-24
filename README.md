@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JacksonTheMaster
 - 👀 I’m interested in user-friendly, praical IT!
-- 🌱 I’m currently learning Go for some api projects
-- 💞️ I’m looking to collaborate on  otherTeams!
+- 🐋 I love go by now - but pls don't pay me for it..yet..
 - 📫 How to reach me: Ping my IP long enough, Twitter, Github...however you like.
 
 <!---
