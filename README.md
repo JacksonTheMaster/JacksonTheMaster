@@ -4,7 +4,9 @@
 - 📫 How to reach me: Ping my IP long enough, Twitter, Github...however you like.
 
 # About Me
-I've been floundering around in Go for about a year now, and while I’m still not sure what I’m doing, I’m having a blast pretending I do! Maybe I will even release a ***** NOT YET ***** at some point. Its in development since 06/2023. If you're curious about my adventures, check out my website and my journey page. Also, a heads-up: Don't even think about contacting me about SAP or Shitrix. Life’s just too short.
+I've been floundering around in Go for more than a year now, and while I’m still not sure how I’m doing it, I actually get shit done now! And I’m still having a blast pretending I do! Maybe I will even release a ***** NOT YET ***** at some point. Its in development since 06/2023. If you're curious about my adventures, check out my website and my journey page. 
+
+A heads-up: Don't even think about contacting me about SAP or Shitrix. Life’s just too short.
 
 # Professional Background
 I'm currently working as a Microsoft Modern Work Consultant at HanseVision GmbH in Hamburg, Germany, though I mostly work from home (yes, with pants). My gig involves conjuring up modern and secure IT infrastructures, with a sprinkle of cloud security and automation solutions.
