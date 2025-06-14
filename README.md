@@ -27,6 +27,9 @@ What started as a tool to tame Stationeers dedicated servers has evolved into **
 - 🔒 Secure by default (JWT auth, TLS)
 - 🛠️ Universal game support via JSON runfiles
 
+**The License:**
+- 🪪 **Why not Open Source**: SSUI (v5 and v6) will eventually go Open Source, but as I am developing in my free time, I am scared of forks that overtake my development speed and steal the spotlight.
+  
 From **Satisfactory** to **Project Zomboid**, **Valheim** to **Counter-Strike 2** – if SteamCMD can download it, SteamServerUI can manage it.
 
 ---
