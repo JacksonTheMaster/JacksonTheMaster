@@ -15,8 +15,8 @@
 
 What started as a quick go script to run a SteamCMD Server evolved into a massive tool to tame Stationeers dedicated servers - and then accidentially evolved once more into **the ultimate Steam game server management platform**. Because why should server management be harder than the games themselves?
 
-**The Evolution:**
-- 🎮 **v1-v5 (StationeersUI)**: The Ultimate Stationeers Server Manager
+**The Servolution:**
+- 🎮 **v1-v5 (StationeersServerUI)**: The Ultimate Stationeers Server Manager
 - 🌟 **v6 (SteamServerUI)**: Universal Steam server overlord in development
 
 **What it does:**
