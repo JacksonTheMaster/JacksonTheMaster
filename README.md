@@ -1,63 +1,101 @@
-- 👋 Hi, I’m @JacksonTheMaster
-- 👀 I’m interested in user-friendly, praical IT!
-- 🐋 I love go by now - but pls don't pay me for it..yet..
-- 📫 How to reach me: Ping my IP long enough, Twitter, Github...however you like.
+# 👋 Hi, I'm not a dev!
 
-# About Me
-I've been floundering around in Go for more than a year now, and while I’m still not sure how I’m doing it, I actually get shit done now! And I’m still having a blast pretending I do! Maybe I will even release a ***** NOT YET ***** at some point. Its in development since 06/2023. If you're curious about my adventures, check out my website and my journey page. 
+**Cloud Infrastructure Specialist & Systems Engineer** based in Stockholm, Sweden  
+*Building go tools when I need them, automating everything I can, and pretending I'm not a developer while writing Go*
 
-A heads-up: Don't even think about contacting me about SAP or Shitrix. Life’s just too short.
+[![SteamServerUI v6](https://img.shields.io/badge/SteamServerUI_v6-Current_Project-ff6b35?style=for-the-badge&logo=steam&logoColor=white)](https://github.com/SteamServerUI/SteamServerUI)
+[![Stationeers UI v5](https://img.shields.io/badge/StationeersUI_v5-LTS-2563eb?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/SteamServerUI/StationeersServerUI)
+[![Supported Games](https://img.shields.io/badge/Supported_Games-Gallery-28a745?style=for-the-badge&logo=gamepad&logoColor=white)](https://steamserverui.github.io/runfiles/)
 
-# Professional Background
-I'm currently working as a Microsoft Modern Work Consultant at HanseVision GmbH in Hamburg, Germany, though I mostly work from home (yes, with pants). My gig involves conjuring up modern and secure IT infrastructures, with a sprinkle of cloud security and automation solutions.
+---
 
-# Skills
-Languages: Go, PowerShell, JavaScript, Assembly, IBM AS 400
-Stuff that is not a language: HTML, CSS, Tensorflow, Git
-Cloud: Microsoft Azure, Microsoft 365, Entra ID
-Automation: Power Apps, Power Automate, Azure Func
-Containers: Docker, k3s, Kubernetes
-Operating Systems: Windows Server, Linux (Debian GNU/Linux)
-Virtualization: VMware ESX, Hyper-V, Proxmox, Citrix
-Infrastructure: Network Administration, Data Center Operations
-Security: Firewall Techniques (Sophos, Kemp, WatchGuard, Ubiquiti, Traefik)
-Other: Active Directory, Project Management, System Administration
+## 🚀 Currently Building: SteamServerUI
 
-# My Company
-I also run my own IT consulting firm, where we focus on providing modern and secure IT infrastructures. Our mission? To let you kick back and relax while we juggle the tech headaches.
+<img src="https://raw.githubusercontent.com/SteamServerUI/SteamServerUI/main/media/v6.png" alt="SteamServerUI Interface" width="400" align="right">
 
-## Our Core Company Competencies:
+What started as a tool to tame Stationeers dedicated servers has evolved into **the ultimate Steam game server management platform**. Because why should server management be harder than the games themselves?
 
-Network & Infrastructure
-Firewall & Load Balancing (Sophos, Kemp, WatchGuard, Ubiquiti, Traefik)
-Cloud & Automation (Microsoft Power Plattform, Scripting)
-Microsoft Cloud Solutions (Azure, Entra, Microsoft 365)
-Collaboration Solutions (Teams, Skype, Asterisk)
-Hosting & Virtualization Solutions (VMware ESXi, Hyper-V, Proxmox, k3s, k8s, Rancher Ecosystem)
+**The Evolution:**
+- 🎮 **v5 (StationeersUI)**: Rock-solid LTS for space engineers
+- 🌟 **v6 (SteamServerUI)**: Universal Steam server overlord in development
 
-We take privacy and cybersecurity seriously and leverage leading technologies to deliver innovative solutions tailored to our clients' needs.
+**What it does:**
+- 🔄 Zero-config SteamCMD automation
+- 🎯 One-click server control with retro-styled web UI
+- 🤖 Discord bot integration for remote management
+- 💾 Smart backup systems that actually work
+- 🔒 Secure by default (JWT auth, TLS)
+- 🛠️ Universal game support via JSON runfiles
 
-# Contact
-Feel free to ping my IP, reach out on Twitter, book an appointment on the JMG Website or just connect with me right here on GitHub!
+From **Satisfactory** to **Project Zomboid**, **Valheim** to **Counter-Strike 2** – if SteamCMD can download it, SteamServerUI can manage it.
 
+---
 
+## 🛠️ What I Actually Do
 
-<!---
-JacksonTheMaster/JacksonTheMaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Day Job:** This could be your spot, future employer!
+**Side Hustle:** Owner of JMG IT consultancy  
+**Reality Check:** I'm a sysadmin who codes in Go when needed, not the other way around
 
-[![JMG][jmg_web]][jmg-url]
-[![Jlangisch][jlangisch_web]][jlangisch-url]
-[![Langischjs][twitter_web]][twitter-url]
-<!---
-![avatar-moving](https://github.com/JacksonTheMaster/JacksonTheMaster/blob/main/avatar-moshed.gif)
---->
+### 💼 Professional Focus
+- **Cloud Infrastructure**: Microsoft Azure, M365, Entra ID
+- **Automation**: PowerShell, Azure Functions, Power Platform
+- **Security**: Zero Trust, Conditional Access, hybrid environments
+- **Scale**: Managing infrastructure for 15,000+ users
+- **Problem Solving**: Turning "it doesn't work" into "it works perfectly"
 
-[jmg-url]: https://www.jmg-it.de
-[jmg_web]: https://img.shields.io/badge/JMG-050f26?style=for-the-badge&logo=googlechrome&logoColor=white
-[twitter-url]: https://www.twitter.com/langischjs
-[twitter_web]: https://img.shields.io/badge/Twitter-3f9cf3?style=for-the-badge&logo=twitter&logoColor=white
-[jlangisch-url]: https://www.jlangisch.de
-[jlangisch_web]: https://img.shields.io/badge/Peronal_Website-222222?style=for-the-badge&logo=googlechrome&logoColor=white
+### 🔧 Technical Arsenal
+**Languages I Use:** Go, Svelte, Bash, PowerShell, JavaScript, some Assembly knowledge (Thx to Stationeers), IBM AS/400  
+**Not Languages But Still Code:** HTML, CSS, Git, magic, Claude, SvelteKit, Vite
+**Cloud Platforms:** Microsoft Azure, Microsoft 365, Microsoft Entra, Microsoft Entra ID (or whatever they call it this week)  
+**Automation Tools:** Power Apps, Power Automate, Azure Functions  
+**Containers:** Docker (because everything's containerized now lol)
+**Operating Systems:** Windows Server (2008-2022) (yes 2008), Linux (Debian-based)  
+**Virtualization:** Proxmox, VMware ESXi, Hyper-V, technically Shitrix but I wont touch this ever again
+**Networking:** Sophos, Kemp, WatchGuard, Ubiquiti, Traefik  
+**Other Stuff:** Active Directory, Exchange, project management, keeping things running, fixing systems for others
 
+---
+
+## 🎯 The Real Talk
+
+- 🏢 **Currently:** Building SSUI
+- 🏠 **Mostly:** Working from home atm (yes, with pants)
+- 🚫 **Hard Pass:** SAP and Citrix projects (life's too short)
+- 🌍 **Location:** Stockholm, Sweden
+- 💡 **Philosophy:** If I have to do it twice, I'll automate it
+- 🎮 **Side Projects:** Making server management less painful for everyone
+
+---
+
+## 🏢 JMG IT Consultancy
+
+My own IT consulting firm focusing on modern, secure infrastructure solutions. I handle the tech headaches so you don't have to.
+
+**Core Competencies:**
+- **Network & Infrastructure**: Design and implementation
+- **Firewall & Load Balancing**: Sophos, Kemp, WatchGuard, Ubiquiti, Traefik
+- **Cloud & Automation**: Microsoft Power Platform, custom scripting
+- **Microsoft Cloud Solutions**: Azure, Entra, Microsoft 365
+- **Collaboration Platforms**: Teams, legacy Skype, Asterisk PBX
+- **Virtualization**: VMware ESXi, Hyper-V, Proxmox, k3s, Kubernetes, Rancher
+
+We take privacy and cybersecurity seriously, leveraging cutting-edge technologies to deliver solutions tailored to each client's needs.
+
+---
+
+## 📫 Get In Touch
+
+**GitHub:** Right here, obviously  
+**LinkedIn:** [jlangisch](https://linkedin.com/in/jlangisch/)  
+**Location:** Stockholm/Vaxholm, Sweden
+
+---
+
+*P.S. - Yes, I know I say I'm "not a dev" while actively developing in Go. It's complicated. Think of it as advanced system administration with extra steps.*
+
+---
+
+[![JMG Website](https://img.shields.io/badge/JMG_IT-Website-050f26?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.jmg-it.de)
+[![Personal Website](https://img.shields.io/badge/Personal_Website-jlangisch.de-222222?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.jlangisch.de)
+[![Twitter](https://img.shields.io/badge/Twitter-@langischjs-3f9cf3?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/langischjs)
